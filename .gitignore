@@ -1,0 +1,4 @@
+*.dump
+*.dumpstream
+*.class
+/.m2/*
